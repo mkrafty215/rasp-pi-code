@@ -1,7 +1,13 @@
 # rasp-pi-code
 Code I'm playing with on my Raspberry PI
 
-Working on Sunfounder SuperKit with Raspberry PI 2 with Bluetooth and Wifi, with 40-pin GPIO extension, and board.
+## What am I using?
+- Sunfounder SuperKit with Raspberry PI 2
+  - Bluetooth
+  - Wifi
+  - 40-pin GPIO extension
+  - extension board.
+
 
 More to come.
 
